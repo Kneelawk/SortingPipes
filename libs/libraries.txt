@@ -1,0 +1,1 @@
+This project requires buildcraft-7.X.X-dev.jar as a build dependency, and has been tested against version 7.0.11.

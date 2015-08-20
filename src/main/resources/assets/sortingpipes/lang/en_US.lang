@@ -1,0 +1,34 @@
+item.pipeSortedItemColoring.name=Dark Lapis Pipe
+item.pipeColoredItemSorting.name=Pumpkin Pipe
+
+gui.sortingpipes.guiPipeSortedItemColoring.title=Dark Lapis Pipe
+gui.sortingpipes.guiPipeSortedItemColoring.defaultColor=Default Color:
+
+gui.sortingpipes.guiPipeColoredItemSorting.title=Pumpkin Pipe
+gui.sortingpipes.guiPipeColoredItemSorting.defaultDirection=Default Direction:
+
+gui.sortingpipes.color.0=White
+gui.sortingpipes.color.1=Orange
+gui.sortingpipes.color.2=Magenta
+gui.sortingpipes.color.3=Light Blue
+gui.sortingpipes.color.4=Yellow
+gui.sortingpipes.color.5=Lime
+gui.sortingpipes.color.6=Pink
+gui.sortingpipes.color.7=Gray
+gui.sortingpipes.color.8=Light Gray
+gui.sortingpipes.color.9=Cyan
+gui.sortingpipes.color.10=Purple
+gui.sortingpipes.color.11=Blue
+gui.sortingpipes.color.12=Brown
+gui.sortingpipes.color.13=Green
+gui.sortingpipes.color.14=Red
+gui.sortingpipes.color.15=Black
+gui.sortingpipes.color.16=No Color
+gui.sortingpipes.color.17=No Change
+
+gui.sortingpipes.direction.0=Down
+gui.sortingpipes.direction.1=Up
+gui.sortingpipes.direction.2=North
+gui.sortingpipes.direction.3=South
+gui.sortingpipes.direction.4=West
+gui.sortingpipes.direction.5=East

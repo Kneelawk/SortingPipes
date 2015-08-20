@@ -1,0 +1,10 @@
+/.gradle/
+/.settings/
+/build/
+/eclipse/
+/lib/*
+/libs/*
+!/libs/libraries.txt
+/.classpath
+/.project
+/bin/

@@ -1,0 +1,19 @@
+[
+{
+  "modid": "sortingpipes",
+  "name": "Sorting Pipes",
+  "description": "This mod adds some pipes to buildcraft for sorting items like the redpower sorting machine.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kneelawk"],
+  "credits": "Kneelawk for making the mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "BuildCraft|Core",
+    "BuildCraft|Transport"
+  ]
+}
+]
